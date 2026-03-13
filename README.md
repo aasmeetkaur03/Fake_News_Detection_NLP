@@ -55,6 +55,12 @@ The project uses Two Labeled Datasets :
 
 The Datasets are merged into a single labeled corpus for Supervised Learning.
 
+
+# The Dataset is hosted externally due to GitHub File Size Limitations.
+
+📥 **Download here :** https://drive.google.com/drive/folders/1cdM_7StBgN1XlFm47hXQX7Jo-VIACQAj?usp=drive_link
+
+
 ---
 
 ## ⚙️ Project Workflow
@@ -194,14 +200,6 @@ Although the model can classify news text based on learned patterns, fake news d
 - bias in training data
 
 Therefore, predictions should be treated as **model outputs**, not Definitive Factual Judgments.
-
----
-
-## Dataset
-
-The Dataset is hosted externally due to GitHub File Size Limitations.
-
-📥 **Download here :** https://drive.google.com/drive/folders/1cdM_7StBgN1XlFm47hXQX7Jo-VIACQAj?usp=drive_link
 
 ---
 
