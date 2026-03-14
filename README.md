@@ -60,6 +60,21 @@ The Datasets are merged into a single labeled corpus for Supervised Learning.
 
 📥 **Download here :** https://drive.google.com/drive/folders/1cdM_7StBgN1XlFm47hXQX7Jo-VIACQAj?usp=drive_link
 
+---
+
+## 📁 Project Structure
+
+Fake_News_Detection_NLP/
+│
+├── notebook/
+│   └── fake_news_detection.ipynb      # Main Jupyter Notebook
+│
+├── assets/
+│   └── visuals/                       # Screenshots of Confusion Matrix, etc.
+│
+├── README.md                          # Project Documentation
+│
+└── external_dataset_link.txt          # Link to Dataset Hosted Externally
 
 ---
 
@@ -203,10 +218,28 @@ Therefore, predictions should be treated as **model outputs**, not Definitive Fa
 
 ---
 
+## ⚙️ How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/aasmeetkaur1703/Fake_News_Detection_NLP.git
+
+2. Install required libraries
+
+pip install pandas numpy scikit-learn matplotlib seaborn wordcloud
+
+3. Open the notebook
+
+jupyter notebook
+
+4. Run all cells to reproduce the results
+
+---
+
 ## 👩‍💻 Author
 **Aasmeet Kaur**
 
-- Passionate about Machine Learning, NLP and Building Practical End-to-End Projects
+- Passionate about Machine Learning and Building Practical End-to-End Projects
 - Focused on Writing Clean, Structured and Real-World Applicable Solutions
 
 If you found this Project Useful..Feel Free to ⭐ the Repository!
