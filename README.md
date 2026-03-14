@@ -62,19 +62,20 @@ The Datasets are merged into a single labeled corpus for Supervised Learning.
 
 ---
 
-## 📁 Project Structure
-
+## 📂 Project Structure
+```
 Fake_News_Detection_NLP/
 │
-├── notebook/
-│   └── fake_news_detection.ipynb      # Main Jupyter Notebook
+├── 📁 notebook/
+│   └── fake_news_detection.ipynb
 │
-├── assets/
-│   └── visuals/                       # Screenshots of Confusion Matrix, etc.
+├── 📁 assets/
+│   └── visuals/
 │
-├── README.md                          # Project Documentation
+├── 📄 README.md
 │
-└── external_dataset_link.txt          # Link to Dataset Hosted Externally
+└── 🔗 external_dataset_link.txt
+```
 
 ---
 
@@ -220,19 +221,26 @@ Therefore, predictions should be treated as **model outputs**, not Definitive Fa
 
 ## ⚙️ How to Run the Project
 
-1. Clone the repository
+Follow the steps below to run the Fake News Detection system locally.
 
+### 1️⃣ Clone the Repository
+```bash
 git clone https://github.com/aasmeetkaur03/Fake_News_Detection_NLP.git
+cd Fake_News_Detection_NLP
+```
 
-2. Install required libraries
-
+### 2️⃣ Install Required Libraries
+```bash
 pip install pandas numpy scikit-learn matplotlib seaborn wordcloud
+```
 
-3. Open the notebook
-
+### 3️⃣ Launch Jupyter Notebook
+```bash
 jupyter notebook
+```
 
-4. Run all cells to reproduce the results
+### 4️⃣ Run the Notebook
+Open the notebook file and run all cells to reproduce the complete NLP pipeline and results.
 
 ---
 
