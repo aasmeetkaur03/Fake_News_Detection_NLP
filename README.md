@@ -222,7 +222,7 @@ Therefore, predictions should be treated as **model outputs**, not Definitive Fa
 
 1. Clone the repository
 
-git clone https://github.com/aasmeetkaur1703/Fake_News_Detection_NLP.git
+git clone https://github.com/aasmeetkaur03/Fake_News_Detection_NLP.git
 
 2. Install required libraries
 
